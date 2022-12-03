@@ -1,0 +1,6 @@
+﻿  고급C프 프로젝트.c
+C:\Users\david\Desktop\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트.c(133,17): warning C4098: 'Compare': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\david\Desktop\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트.c(138,14): warning C4101: 'nd' :참조되지 않은 지역 변수입니다.
+C:\Users\david\Desktop\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트.c(192,13): warning C4098: 'Save': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\david\Desktop\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트\고급C프 프로젝트.c(205,13): warning C4098: 'Load': 'void' 함수에서 값을 반환하고 있습니다.
+  고급C프 프로젝트.vcxproj -> C:\Users\david\Desktop\고급C프 프로젝트\고급C프 프로젝트\x64\Debug\고급C프 프로젝트.exe
